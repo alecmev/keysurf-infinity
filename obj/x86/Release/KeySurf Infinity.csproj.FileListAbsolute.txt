@@ -1,0 +1,11 @@
+D:\stuff\work\random\KeySurf Infinity\bin\Release\KeySurfInfinity.exe
+D:\stuff\work\random\KeySurf Infinity\bin\Release\KeySurfInfinity.pdb
+D:\stuff\work\random\KeySurf Infinity\obj\x86\Release\MainWindow.baml
+D:\stuff\work\random\KeySurf Infinity\obj\x86\Release\MainWindow.g.cs
+D:\stuff\work\random\KeySurf Infinity\obj\x86\Release\App.g.cs
+D:\stuff\work\random\KeySurf Infinity\obj\x86\Release\KeySurfInfinity_MarkupCompile.cache
+D:\stuff\work\random\KeySurf Infinity\obj\x86\Release\KeySurfInfinity.g.resources
+D:\stuff\work\random\KeySurf Infinity\obj\x86\Release\BrightCerulean.KeySurfInfinity.Properties.Resources.resources
+D:\stuff\work\random\KeySurf Infinity\obj\x86\Release\KeySurf Infinity.csproj.GenerateResource.Cache
+D:\stuff\work\random\KeySurf Infinity\obj\x86\Release\KeySurfInfinity.exe
+D:\stuff\work\random\KeySurf Infinity\obj\x86\Release\KeySurfInfinity.pdb
